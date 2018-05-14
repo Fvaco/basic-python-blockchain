@@ -39,7 +39,7 @@ print_section_title('Printing all names (' + str(len(names))+')')
 print_names()
 
 
-# 2) Add an if  check inside the loop to only output names longer than 5 characters.
+# 2) Add an if check inside the loop to only output names longer than 5 characters.
 print_section_title('Printing only names longer than 5 characters')
 print_names([CONDITION_LONGER_THAN_5_CHARACTERS])
 
